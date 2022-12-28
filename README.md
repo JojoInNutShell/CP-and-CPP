@@ -39,8 +39,5 @@ CPP-10-Preprocessors
 CPP-11-Structs and Class
 > https://docs.google.com/presentation/d/16KPZcEAOH1aAFC6hi_MW5Hwi54rN1SPdLIE_a6Cu5H4/edit?usp=sharing
 
-CPP-12-CP on CPP
-> https://docs.google.com/presentation/d/1w60zQB1dtBe7V0QsuSCGUsuUFLbxKQto6q1xfSeCLpk/edit?usp=sharing
-
-CPP-13-What Comes Next?
+CPP-12-What Comes Next?
 > https://docs.google.com/presentation/d/18zgMeUqca-ek3QQH4Gb8L3xYLX8Z5TyDWPX66h2a1z4/edit?usp=sharing
