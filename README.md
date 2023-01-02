@@ -21,23 +21,26 @@ CPP-04-Comments
 CPP-05-Operators
 > https://docs.google.com/presentation/d/1EJP6KXnk493njQcMmL1ITysrSz_MZsOMnFQ-0y6_9Pc/edit?usp=sharing
 
-CPP-06-Conditions
+CPP-06-Strings
+> https://docs.google.com/presentation/d/1R4XZM5jSM7VwboW8dfpI3kNoxtl6qxdjYdqxNBXlRiU/edit?usp=share_link
+
+CPP-07-Conditions
 >https://docs.google.com/presentation/d/1xkfK7cIEW_kRpd2Ru7skUrsi7HnpRKmm4MiJZEKkvyc/edit?usp=sharing
 
-CPP-07-Loop
+CPP-08-Loop
 > https://docs.google.com/presentation/d/1fgx9AesPl-hK1gQd5m5D6msvRnA_f1Q5-1VKCGYpMes/edit?usp=sharing
 
-CPP-08-Functions
+CPP-09-Functions
 > https://docs.google.com/presentation/d/1mx835qrg5bSWeq54tOetKCxZ2N8GwL9Z5i5g1xXJvyQ/edit?usp=sharing
 
-CPP-09-Pointers and Refrences
+CPP-10-Pointers and Refrences
 > https://docs.google.com/presentation/d/1yhbnsQHWyl-aF0ufdp5EKyVxLcQqtSSLP8j1vDJ_U54/edit?usp=sharing
 
-CPP-10-Preprocessors
+CPP-11-Preprocessors
 > https://docs.google.com/presentation/d/1hFA7xBMXJVVMkAM_KTtISxXUOg7vpiDcth5n4ZlJ6sE/edit?usp=sharing
 
-CPP-11-Structs and Class
+CPP-12-Structs and Class
 > https://docs.google.com/presentation/d/16KPZcEAOH1aAFC6hi_MW5Hwi54rN1SPdLIE_a6Cu5H4/edit?usp=sharing
 
-CPP-12-What Comes Next?
+CPP-13-What Comes Next?
 > https://docs.google.com/presentation/d/18zgMeUqca-ek3QQH4Gb8L3xYLX8Z5TyDWPX66h2a1z4/edit?usp=sharing
