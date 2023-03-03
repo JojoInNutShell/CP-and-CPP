@@ -1,7 +1,7 @@
 # CP and CPP
 ## Competitive Programming and C Plus Plus
 
-Here, I made a learning material (currently in Indonesian) on Competitive Programming and C Plus Plus.
+I made a learning material (currently in Indonesian) on Competitive Programming and C Plus Plus.
 
 Below are the link to the latest material:
 
