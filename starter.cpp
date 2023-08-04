@@ -1,10 +1,6 @@
 /*
 	Author: MikiMiku
 	
-	Observation:
-	
-	Idea: 
-		
 */
 
 #include <bits/stdc++.h>
@@ -21,10 +17,6 @@ template<typename Head, typename... Tail> void dbg_out(Head H, Tail... T) { cerr
 #define dbg(...)
 #endif
 
-/* GLOBAL OVERWRITE */
-//#define int long long
-#define endl '\n'
-
 /* CONTAINER SHORTCUT */
 #define sza(x) ((int)x.size())
 #define all(a) (a).begin(), (a).end()
@@ -38,6 +30,10 @@ template<typename Head, typename... Tail> void dbg_out(Head H, Tail... T) { cerr
 using namespace __gnu_pbds;
   
 #define ordered_set tree<int, null_type,less<int>, rb_tree_tag,tree_order_statistics_node_update>
+
+/* GLOBAL OVERWRITE */
+//#define int long long
+#define endl '\n'
 
 /* BIT MANIPULATION */
 #define isOn(S, j) (S & (1 << j))
@@ -80,8 +76,7 @@ typedef map<int,int> mii;
 
 /* RANDOM */
 mt19937 rng((uint32_t)chrono::steady_clock::now().time_since_epoch().count()); 
-#define SHUF(v) shuffle(all(v), RNG); 
-
+#define SHUF(v) shuffle(all(v), rng); 
 
 //FLOAT PRECISION SETTINGS
 /*
