@@ -49,8 +49,3 @@ CPP-13-What Comes Next?
 CP-01-Introduction to Indonesian NOI and The World of CP
 > https://docs.google.com/presentation/d/1tmOoy2I3ppfbA0IMngI2URVPxLhgxl27a9-m2GzBZDk/edit?usp=sharing
 
-CP-02-Overview of Discrete Math
-> Currently in work
-
-CP-03-Overview of Competitive Programming
-> Currently in work
